@@ -1,13 +1,13 @@
 export const robots = [
   {
-    id: "sad",
-    name: 'Leanne Graham',
+    id: "cute",
+    name: 'Brendon Stewart',
     username: 'Bret',
     email: 'Sincere@april.biz'
   },
   {
-    id: "happy",
-    name: 'Ervin Howell',
+    id: "hot",
+    name: 'Abdullah Khan',
     username: 'Antonette',
     email: 'Shanna@melissa.tv'
   },
@@ -18,43 +18,43 @@ export const robots = [
     email: 'Nathan@yesenia.net'
   },
   {
-    id: 4,
+    id: "sexy",
     name: 'Patricia Lebsack',
     username: 'Karianne',
     email: 'Julianne.OConner@kory.org'
   },
   {
-    id: 5,
+    id: "angry",
     name: 'Chelsey Dietrich',
     username: 'Kamren',
     email: 'Lucio_Hettinger@annie.ca'
   },
   {
-    id: 6,
+    id: "quirky",
     name: 'Mrs. Dennis Schulist',
     username: 'Leopoldo_Corkery',
     email: 'Karley_Dach@jasper.info'
   },
   {
-    id: 7,
+    id: "sleepy",
     name: 'Kurtis Weissnat',
     username: 'Elwyn.Skiles',
     email: 'Telly.Hoeger@billy.biz'
   },
   {
-    id: 8,
+    id: "grumpy",
     name: 'Nicholas Runolfsdottir V',
     username: 'Maxime_Nienow',
     email: 'Sherwood@rosamond.me'
   },
   {
-    id: 9,
+    id: "goofy",
     name: 'Glenna Reichert',
     username: 'Delphine',
     email: 'Chaim_McDermott@dana.io'
   },
   {
-    id: 10,
+    id: "shy",
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
