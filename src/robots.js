@@ -1,18 +1,18 @@
 export const robots = [
   {
-    id: 1,
+    id: "sad",
     name: 'Leanne Graham',
     username: 'Bret',
     email: 'Sincere@april.biz'
   },
   {
-    id: 2,
+    id: "happy",
     name: 'Ervin Howell',
     username: 'Antonette',
     email: 'Shanna@melissa.tv'
   },
   {
-    id: 3,
+    id: "awesome",
     name: 'Clementine Bauch',
     username: 'Samantha',
     email: 'Nathan@yesenia.net'
