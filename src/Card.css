@@ -1,9 +1,9 @@
 /*tc bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5*/
 .card {
     text-align: center;
-    background-color: rgb(138, 196, 209);
+    background-color: #6699FF;
     display: inline-block;
-    border-radius: 20px 0px;
+    border-radius: 20px;
     padding: 10px;
     margin: 10px;
     border-width: 10px;
@@ -15,4 +15,14 @@
 .card:hover, .card:focus {
     transform: scale(1, 1.05);
     box-shadow: 2px 17px 30px 11px rgba(138,149,158,0.39);
+}
+
+
+/*pa2 ba b--green bg-lightest-blue br3*/
+.searchbox {
+    padding: 15px 10px;
+    border-color: #000;
+    background-color: #c6d7eb;
+    border-radius: 10px;
+    width: 20%;
 }

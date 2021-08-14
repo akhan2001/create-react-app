@@ -1,0 +1,9 @@
+@font-face {
+    font-family: BIONICKIDSIMPLE;
+    src: url('BIONICKIDSIMPLE.ttf');
+}
+h1 {
+    font-size: 50px;
+    font-family: BIONICKIDSIMPLE;
+    color: #c3c3ee;
+}
